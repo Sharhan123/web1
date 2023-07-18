@@ -1,0 +1,384 @@
+*{
+    margin: 0%;
+}
+.first{
+    background-image: url(https://b.zmtcdn.com/web_assets/81f3ff974d82520780078ba1cfbd453a1583259680.png);
+    height: 667px;
+    background-repeat: no-repeat;
+    background-size: 100%;
+    margin-top: -100px;
+
+}
+.top{
+    margin-left: 929px;
+   
+   
+}
+.add{
+    cursor: pointer;
+    padding-top: 120px;
+    margin-left: 1px;
+    color: rgb(255,255,255);
+    font-family:Quattrocento Sans ;
+    font-size: 20px;
+    float: left;
+    
+}
+.add:hover{
+    color:rgb(99, 96, 96);
+}
+.login{
+    cursor: pointer;
+    color: rgb(255,255,255);
+    font-family:Quattrocento Sans ;
+    font-size: 20px;
+    float: left;
+    padding-top: 120px;
+    margin-left: 40px;
+}
+.login:hover{
+    color:rgb(99, 96, 96);}
+.sign{
+    cursor: pointer;
+    color: rgb(255,255,255);
+    font-family:Quattrocento Sans ;
+    font-size: 20px;
+    float: left;
+    padding-top: 120px;
+    margin-left: 40px;
+}
+.sign:hover{
+    color:rgb(99, 96, 96);}
+.image{
+    margin-left: 646px;
+    height: 56px;
+    margin-top: 183px;
+    width: 295px;
+}
+.text{
+    height: 77px;
+    margin-top: 33px;
+    color: rgb(255,255,255);
+    font-family: Quattrocento Sans;
+    font-size: 39px;
+    padding-left: 500px;
+}
+.center{
+    margin-left: 120px;
+}
+.sec{
+    height: 100%auto;
+    width: 100%;
+    padding-top: 50px;
+}
+.flex{
+    display: flex;
+    height: 50px;
+    padding-left: 530px;
+    
+    
+}
+.pop{
+    font-family:Quattrocento Sans ;
+    font-size: 38px;
+    color: black;
+}
+.img{
+    height: 35px;
+    width: 55px;
+    margin-left: 20px;
+}
+.ind{
+    font-family:Quattrocento Sans ;
+    font-size: 38px;
+    color: black;
+    padding-left: 10px;
+}
+.des{
+    color: rgb(105, 105, 105);
+    font-family:Quattrocento Sans ;
+    font-size: 23px;
+    padding-left: 300px;
+    padding-top: 32px;
+}
+.line{
+    padding-top: 5px;
+    padding-left:4px ;
+}
+.line-l{
+    padding-left: 265px;
+    padding-top: 5px;
+}
+.box{
+    
+    display: flex;
+    display: flex;
+    height: 70px;
+    width: 100%;
+    margin-top: 70px;
+    
+    
+}
+
+.box-b{
+    display: flex;
+    display: flex;
+    height: 70px;
+    width: 100%;
+    margin-top: 20px;
+}
+.box1{
+    cursor: pointer;
+    display: flex;
+    justify-content: space-between;
+    height: 65px;
+    width: 350px;
+    border-radius: 6px;
+    box-shadow: 0px 0px 3px -1px;
+
+    margin-left: 225px;
+    
+
+}
+.box1:hover{
+    box-shadow: 0px 0px 3px 1px;
+}
+.font{
+    
+    font-family:Quattrocento Sans ;
+    font-size: 23px;
+    color: black;
+    margin-left: 30px;
+    margin-top: 18px;
+}
+ .arow{
+    margin-top: 20px;
+}   
+    
+   
+
+.material-symbols-outlined {
+  font-variation-settings:
+  'FILL' 0,
+  'wght' 400,
+  'GRAD' 0,
+  'opsz' 48
+  
+}
+.box1-2{
+    cursor: pointer;
+    display: flex;
+    justify-content: space-between;
+    height: 65px;
+    width: 350px;
+    border-radius: 6px;
+    box-shadow: 0px 0px 3px -1px; 
+    margin-left: 20px;
+}
+.box1-2:hover{
+box-shadow: 0px 0px 3px 1px;}
+.sec2{
+    height:20cm ;
+    width: 100%;
+    
+}
+.contry{
+    font-size: 36px;
+    color: rgb(28, 28, 28);
+    font-family: Quattrocento Sans;
+    font-weight: 700;
+    margin-top: 50px;
+    margin-left: 227px;
+}
+.nav{
+    display: flex;
+    display: flex;
+    height: 70px;
+    width: 100%;
+    margin-top: 40px;
+    
+}
+.pox{
+
+    display: flex;
+    justify-content: space-between;
+    height: 65px;
+    width: 350px;
+    border-radius: 6px;
+    box-shadow: 0px 0px 3px -1px;
+
+    margin-left: 225px;
+}
+.pox:hover{
+    box-shadow: 0px 0px 3px 1px;
+}
+.f{
+    display: flex;
+    margin-left: 15px;
+    margin-top: 15px;
+    
+}
+.imgg{
+    width: 55px;
+    height: 35px;
+}
+.t{
+    font-size: 23px;
+    color: rgb(28, 28, 28);
+    font-family: Quattrocento Sans;
+    margin-left: 10px;
+    margin-top: 6px;
+}
+.pox1-2{
+    display: flex;
+    justify-content: space-between;
+    height: 65px;
+    width: 350px;
+    border-radius: 6px;
+    box-shadow: 0px 0px 3px -1px; 
+    margin-left: 20px;
+}
+.pox1-2:hover{
+    box-shadow: 0px 0px 3px 1px;
+}
+.footer{
+    width: 100%;
+    height: 8.9cm;
+    background-color:rgb(248, 248, 248);
+}
+.ft{
+    display: flex;
+    width: 100%;
+    height: 100px;
+    
+}
+.pic{
+    height: 50px;
+    width:220px ;
+    margin-left: 250px;
+    
+}
+.zom{
+    height: 1.8rem;
+    width: 8.2rem;
+    margin-top: 50px;
+}
+.bt{
+    display: flex;
+    height: 35px;
+    width: 120px;
+    border-color: rgb(252, 252, 252);
+    border-radius: 6px;
+    border: .5px solid;
+    margin-left: 600px;
+    margin-top: 50px;
+}
+.ind-1{
+    width: 26px;
+    height:20px;
+    margin-left: 5px;
+    margin-top: 6px;
+}
+.ti{
+    font-family: Quattrocento Sans;
+    font-size: 20px;
+    margin-left: 6px;
+    margin-top: 5px;
+}
+
+.material-symbols-outlined {
+  font-variation-settings:
+  'FILL' 0,
+  'wght' 170,
+  'GRAD' 0,
+  'opsz' 48
+}
+.ar{
+    margin-left: 20px;
+    margin-top: 4px;
+}
+.bt-1{
+    display: flex;
+    height: 35px;
+    width: 120px;
+    border-color: rgb(252, 252, 252);
+    border-radius: 6px;
+    border: .5px solid;
+    margin-left: 20px;
+    margin-top: 0px;
+}
+.glob{
+    width: 30px;
+    height: 20px;
+    margin-left: 5px;
+    margin-top: 5px;
+}
+.ar-1{
+    margin-left: 8px;
+    margin-top: 4px;
+}
+.abt{
+    display: flex;
+    margin-left: -1190px;
+    width: 100%;
+    height: 300px;
+    margin-top: 80px;
+}
+.abt-1{
+    margin-left: 252px;
+    margin-top: 30px;
+}
+.abt-f{
+    font-family:Quattrocento Sans;
+    font-size: 18px;
+    font-weight: 500;
+    color:rgb (0 0 0);
+}
+.point{
+    font-family:Quattrocento Sans ;
+    margin-top: 15px;
+    margin-left: -38px;
+    list-style-type:none;
+    font-weight: lighter;
+    color: rgb(92, 91, 91);
+    font-size: 15px;
+}
+.abt-2{
+    margin-left: 120px;
+    margin-top: 30px;
+}
+.abt-fe{
+    font-family:Quattrocento Sans;
+    font-size: 18px;
+    font-weight: 500;
+    color:rgb (0 0 0)
+}
+.link{
+    width: 130px;
+    height: 45px;
+}
+.aple{
+    width: 130px;
+    height: 45px;
+    margin-top: 15px;
+}
+.lln{
+    background-color:rgb(248, 248, 248);
+    height: 3.5cm;
+    width: auto;
+    margin-top: -45px;
+}
+.ln{
+   
+    margin-left: 240px;
+    color: rgb(92, 91, 91);
+    width: 1180px;
+    margin-top: 44px;
+}
+.txt{
+    font-size: 16px;
+    font-family: Quattrocento Sans;
+    margin-left: 235px;
+    margin-top: 20px;
+    color: rgb(92, 91, 91)
+}
